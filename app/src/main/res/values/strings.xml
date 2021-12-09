@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="work_inprogress">Work\'s Running</string>
+    <string name="cancel">Cancel</string>
+</resources>
